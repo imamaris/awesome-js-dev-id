@@ -164,10 +164,28 @@
   - LinkedIn: [Dwi Agustianto](https://www.linkedin.com/in/agusid/)
   - Blog: [agusdwi.id](https://agusdwi.id)
   - Medium: [@agusdwi](https://medium.com/@agusdwi)
+  
+    **Dhani Sulistiyo Wibowo**
+  - Skills: #React, #Golang, #Javascript, #Flow
+  - Github: [dhanisulistiyo](https://github.com/dhanisulistiyo)
+  - Facebook: [Dhani Sulistiyo Wibowo](https://www.facebook.com/dhani.sulistiyo)
+  - Twitter: N/A
+  - LinkedIn: [Dhani Sulistiyo Wibowo](https://www.linkedin.com/in/dhanisulistiyo/)
+  - Blog: N/A
+  - Medium: N/A
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## E
+
++ **Eka**
+  - Skills: N/A
+  - Github: [ekafyi](https://github.com/ekafyi)
+  - Facebook: N/A
+  - Twitter: [@ekafyi](https://twitter.com/ekafyi)
+  - LinkedIn: N/A
+  - Blog: [dev.to/ekafyi](https://dev.to/ekafyi)
+  - Medium: N/A
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
@@ -212,6 +230,15 @@
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## G
+
+**Gazandi Cahyadarma**
+  - Skills: #React, #NodeJs, #Go, #Ruby, #Java
+  - Github: [gazandic](https://github.com/gazandic)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: [Gazandi Cahyadarma](https://www.linkedin.com/in/gazandi-cahyadarma-86b726a1)
+  - Blog: N/A
+  - Medium: N/A
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
@@ -499,6 +526,26 @@
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
 ## T
+
+
++ **Teofilus Candra**
+  - Skills: #React, #NodeJs, #ReactNative, #Vue
+  - Github: https://github.com/teofiluscandra
+  - Facebook: https://www.facebook.com/teofiluscandra
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: [@teofilus](https://medium.com/@teofiluscandra)
+
++ **Teno Siswono**
+  - Skills: #React, #Vue, #NodeJs, #Typescript
+  - Github: [tenosiswono](https://github.com/tenosiswono)
+  - Facebook: N/A
+  - Twitter: N/A
+  - LinkedIn: N/A
+  - Blog: N/A
+  - Medium: N/A
+
 
 [⬆️ Kembali ke Navigasi](#navigasi-berdasar-abjad)
 
